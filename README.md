@@ -1,6 +1,6 @@
 # Exercícios Trybe
 
-#### Neste repositório encontram-se todos os exercícios e projetos realizados por [mim](https://www.linkedin.com/in/gabrielvoltani/) durante minha tragetória na Trybe!
+#### Neste repositório encontram-se todos os exercícios e projetos realizados por [mim](https://www.linkedin.com/in/gabrielvoltani/) durante minha tragetória na Trybe! ✍️
 
 ```mermaid
 graph LR
@@ -9,7 +9,7 @@ B --> C{Back-end}
 C --> D{Computer-Science}
 ```
 
-## Fundamentos 
+## Fundamentos 📗
 
 ##### Bloco 1: Introdução - Unix & Shell
 
@@ -87,7 +87,7 @@ C --> D{Computer-Science}
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest AssÃ­ncrono e Mocking]()_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end 📕
 
 ##### Bloco 11: IntroduÃ§Ã£o - React
 
@@ -143,7 +143,7 @@ C --> D{Computer-Science}
 
 - [ ] 19-1: _[Projeto - App de Receitas]()_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end 📘
 
 ##### Bloco 20: IntroduÃ§Ã£o - Bancos de dados relacionais
 
@@ -239,7 +239,7 @@ C --> D{Computer-Science}
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-## CiÃªncia da ComputaÃ§Ã£o :hourglass_flowing_sand:
+## CiÃªncia da ComputaÃ§Ã£o 📙
 
 ##### Bloco 35: IntroduÃ§Ã£o - CiÃªncia da ComputaÃ§Ã£o
 
